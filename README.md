@@ -11,3 +11,5 @@ data/
   va_masks
 
 Create a folder saved_images for the predictions to be saved
+
+Writing a 2D UNet model from scratch is a good beginner tutorial 
