@@ -10,4 +10,4 @@ data/
   val_images
   va_masks
 
-Predictions are saved in saved_images
+Create a folder saved_images for the predictions to be saved
