@@ -10,4 +10,4 @@ data/
   val_images
   va_masks
 
-predictions are saved in saved_images
+Predictions are saved in saved_images
