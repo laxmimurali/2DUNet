@@ -5,10 +5,10 @@ https://arxiv.org/abs/1505.04597
 Data needs to be organised in format
 
 data/
-  train_images
-  train_masks
-  val_images
-  va_masks
+  train_images/
+  train_masks/
+  val_images/
+  va_masks/
 
 Create a folder saved_images for the predictions to be saved
 
