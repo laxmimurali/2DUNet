@@ -12,4 +12,6 @@ data/
 
 Create a folder saved_images for the predictions to be saved
 
+The model was trained and tested using Carvana dataset from Kaggle
+
 Writing a 2D UNet model from scratch is a good beginner tutorial 
