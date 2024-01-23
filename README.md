@@ -8,7 +8,7 @@ data/
   train_images/
   train_masks/
   val_images/
-  va_masks/
+  val_masks/
 
 Create a folder saved_images for the predictions to be saved
 
